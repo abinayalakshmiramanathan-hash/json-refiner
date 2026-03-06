@@ -15,3 +15,6 @@ Rename it exactly to README.md.
 Write your project details inside the file and save it.
 
 Upload/Sync the file to your GitHub account.
+
+
+Link https://f2fb5577650583cd23.gradio.live
